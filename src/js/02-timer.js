@@ -5,6 +5,7 @@ import Notiflix from 'notiflix';
 //============================================================================================//
 
 
+console.log('saasfsaf')
 
 const ref = {
     input: document.querySelector('#datetime-picker'),
